@@ -17,5 +17,7 @@ Susan
 hhh
 'node js/index.js'
 
-var=Susan
+var name=Susan;
+
+
 
