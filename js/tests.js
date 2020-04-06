@@ -17,7 +17,11 @@ Susan
 hhh
 'node js/index.js'
 
-var name=Susan;
+var name = "Susan";
+"node js/index.js";
+
+
+
 
 
 
