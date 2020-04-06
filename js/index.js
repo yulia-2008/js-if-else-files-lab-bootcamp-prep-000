@@ -8,8 +8,7 @@ if(name==="Susan") {
   console.log("The name is correct");
 }
 else{console.log("ExpectedSusan")}
-'js/index.js';
-'node js/index.js';
+
 
 
 
