@@ -5,5 +5,6 @@ var height = "74"
 module.exports = { name, height
 }
 
-'node js/index.js'
+'js/index.js'
+
 
