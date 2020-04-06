@@ -15,3 +15,4 @@ if (index.height === 70) {
 }
 Susan
 hhh
+'node js/index.js'
